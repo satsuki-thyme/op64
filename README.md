@@ -6,4 +6,5 @@
 - text/[64]003.txt: タイトル未定
 
 ### 思考ノート
-- thinking-notes/[64]thinking-notes-001.md: 第3話
+- thinking-notes/[64]thinking-notes-001.md: 計画 第3話
+- thinking-notes/[64]thinking-notes-002.md: 計画 第3話 剣の話
