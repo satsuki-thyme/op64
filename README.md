@@ -4,7 +4,7 @@
 - text/[64]001.txt: 落ちた世界で
 - text/[64]002.txt: エンゲージメント
 - text/[64]003.txt: 巡る市場の華やぎ
-- text/[64]004.txt: タイトル未定
+- text/[64]004.txt: 霧の向こうは霧
 
 ### 思考ノート
 - thinking-notes/[64]thinking-notes-001.md: 計画 第3話
