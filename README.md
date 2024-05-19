@@ -5,6 +5,7 @@
 - text/[64]002.txt: エンゲージメント
 - text/[64]003.txt: 巡る市場の華やぎ
 - text/[64]004.txt: 霧の向こうは霧
+- text/[64]005.txt: イノセント
 
 ### 思考ノート
 - thinking-notes/[64]thinking-notes-001.md: 計画 第3話
