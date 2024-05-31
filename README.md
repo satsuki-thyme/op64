@@ -6,7 +6,7 @@
 - text/[64]003.txt: 巡る市場の華やぎ
 - text/[64]004.txt: 霧の向こうは霧
 - text/[64]005.txt: イノセント
-- text/[64]006.txt: タイトル未定
+- text/[64]006.txt: 思いの交錯
 
 ### 思考ノート
 - thinking-notes/[64]thinking-notes-001.md: 計画 第3話
